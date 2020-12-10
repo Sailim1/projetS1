@@ -1,0 +1,29 @@
+.caroussel{
+    background-color: #CFB6ED;
+    color: black;
+    padding:20px ;
+}
+ul.caroussel-items{
+    list-style: none;
+    padding: 1rem 0;
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+li.caroussel-items{
+    flex: 1 0 220px;
+    margin-right: 2rem;
+    scroll-snap-align: center;
+
+}
+::-webkit-scrollbar-track{
+    background-color: #555555;
+
+}
+::-webkit-scrollbar{
+    height: 2px;
+    background-color: tomato;
+}
+::-webkit-scrollbar-thumb{
+    background-color: tomato;
+}

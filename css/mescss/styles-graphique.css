@@ -1,0 +1,59 @@
+h2{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: #67a7d5;
+}
+
+p{
+    text-align: left;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #67a7d5;
+}
+
+.images{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.rectangle1 {
+    width: 340px;
+    height: 12px;
+    margin-left: 17px;
+    border-radius: 4px;
+}
+
+.rectangle2 {
+    width: 250px;
+    height: 3px;
+    margin-left: 67px;
+    border-radius: 4px;
+}
+
+.logofooter{
+    width: 149px;
+    height: 84px;
+    margin: 24px 113px 63px;
+    object-fit: contain;
+}
+.cercle {
+    margin-left: 120px;
+}
+.lignes {
+    margin-left: 56px;
+}
+.bouton-projet{
+    margin-left: 115px;
+}
+.autres-projets{
+    margin-right: 100px;
+}

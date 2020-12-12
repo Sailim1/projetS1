@@ -10,3 +10,9 @@ img{
 .tour-sao{
     background-image: url("../../img/tour-sao.png");
 }
+
+.numero {
+    margin-top: -20%;
+    position: absolute;
+}
+

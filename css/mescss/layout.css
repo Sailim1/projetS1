@@ -3,6 +3,10 @@ img{
     height: auto;
 }
 
-#accueil {
-    background-image: url("../../img/");
+.accueil{
+    background-image: url("../../img/sao.jpg");
+}
+
+.tour-sao{
+    background-image: url("../../img/tour-sao.png");
 }

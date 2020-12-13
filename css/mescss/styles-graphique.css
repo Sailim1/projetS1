@@ -59,11 +59,19 @@ h1 {
 .autres-projets{
     margin-right: 100px;
 }
-.Boutons-menu{
+.Boutons-menu {
     width: 80px;
     height: 84px;
-
 }
-.trait1{
-    width: 0;
+main h2 {
+    margin-bottom: 0;
+}
+main img {
+    margin-top: 0;
+}
+.ensemble1 {
+    margin-top: 0;
+}
+.numero{
+    left: 0;
 }

@@ -6,10 +6,12 @@ h2{
 }
 
 p{
+    font-family: 'Poppins', sans-serif;
+    color:#707070;
     text-align: left;
     font-size: 15px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 35px;
+    margin-right: 22px;
 }
 
 h1 {
@@ -56,4 +58,12 @@ h1 {
 }
 .autres-projets{
     margin-right: 100px;
+}
+.Boutons-menu{
+    width: 80px;
+    height: 84px;
+
+}
+.trait1{
+    width: 0;
 }

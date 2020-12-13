@@ -1,8 +1,11 @@
 h2{
     font-family: 'Russo One', sans-serif;
-    text-align: center;
-    font-size: 30px;
+    text-align: left;
+    font-size: 23px;
     color: #67a7d5;
+    margin-bottom: 0;
+    margin-left: 70px;
+
 }
 
 p{
@@ -63,9 +66,6 @@ h1 {
     width: 80px;
     height: 84px;
 }
-main h2 {
-    margin-bottom: 0;
-}
 main img {
     margin-top: 0;
 }
@@ -74,4 +74,53 @@ main img {
 }
 .numero{
     left: 0;
+    position: absolute;
+    margin-left: 20px;
+}
+.boutton-voir{
+    text-transform: uppercase;
+    height: 3px;
+    width: 100px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 4px;
+    background-color: black;
+}
+.boutton-voir h3{
+    font-size:12px;
+    top:20px;
+    color: #67a7d5;
+}
+.thématique{
+    text-align: center;
+    margin-right: 60px;
+}
+.numero-consèquences{
+    left: 0;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10vw;
+}
+.numero-futur {
+    left: 0;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: -8vw;
+}
+.numero-casque{
+    left: 0;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: -7vw;
+}
+.numero-empreintes{
+    left: 0;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 7vw;
+}
+.numero-alerte{
+    left: 0;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 1vw;
 }
